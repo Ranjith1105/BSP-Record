@@ -12,21 +12,21 @@ To design a digital Butterworth filter using bilinear method satisfying the cons
 
 ## ALGORITHM:
 
-Start the matlab software
+1. Start the matlab software
 
-Assign the variable for pass band ripple ,stop band ripple, pass band and stopband frequency
+2. Assign the variable for pass band ripple ,stop band ripple, pass band and stopband frequency
 
-Determine the order of filter using the required formula.
+3. Determine the order of filter using the required formula.
 
-Find the filter co-efficient a and b.
+4. Find the filter co-efficient a and b.
 
-Assign the time and amplitude.
+5. Assign the time and amplitude.
 
-Plot the magnitude and phase angle.
+6. Plot the magnitude and phase angle.
 
-Give the x label and ylabel and title it.
+7. Give the x label and ylabel and title it.
 
-Save and run the program.
+8. Save and run the program.
 
 
 ## PROGRAM:
