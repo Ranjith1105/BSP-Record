@@ -11,6 +11,7 @@ The Fast Fourier Transform (FFT) is an efficient algorithm to compute the Discre
 The Radix-2 Decimation-in-Frequency (DIF) algorithm works by successively breaking down the computation of the DFT into smaller DFTs using a divide-and-conquer approach.
 DIF splits the input sequence in the frequency domain.
 The butterfly structure is used to combine the results efficiently.
+
 Twiddle factors WNk=e−j(2πk/N)W_N^k = e^{-j(2\pi k / N)}WNk=e−j(2πk/N) are used for complex multiplications.
 ## Algorithm:
 Input: Sequence x(n) of length N (where N is a power of 2).
